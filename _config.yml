@@ -1,14 +1,14 @@
-layout_spectrum: 0.2878118350636214
-typography_spectrum: 0.24438083684071898
+layout_spectrum: 0.22098785336129367
+typography_spectrum: 0.3446400200482458
 color:
-  brandStrength: 0.06139160878956318
-  lightness: 0.8587763761170208
-  saturation: 0.5434880033135414
-  rhythmicContrast: 0.3167657623998821
+  brandStrength: 0.8300214682240039
+  lightness: 0.30293467082083225
+  saturation: 0.10565114580094814
+  rhythmicContrast: 0.7111921382602304
   brandColors:
-    - '#B9121B'
-    - '#4C1B1B'
-    - '#F6E497'
-    - '#FCFAE1'
-    - '#BD8D46'
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
 name: Fink Atelier
